@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Telegram
+Comment=Telegram Desktop for Linux.
+Exec=/usr/bin/Telegram
+Icon=/usr/share/telegram/telegram.png
+Type=Application
+Categories=Utility;Application;Development;
